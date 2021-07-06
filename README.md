@@ -10,13 +10,19 @@ Looking forward to experiment and add my own Blender models in next projects ðŸ§
 You will need Node.js. 
 
 Install dependencies:
-`npm install`
+```bash
+npm install
+```
 
 Run the local server at localhost:8080:
-`npm run dev`
+```bash
+npm run dev
+```
 
 Build for production:
-`npm run build`
+```bash
+npm run build
+```
 
 
 ------------
